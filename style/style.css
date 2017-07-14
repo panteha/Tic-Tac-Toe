@@ -4,4 +4,7 @@
 
 .square{
   border: 1px solid black;
+  font-size: 40pt;
+  height: 40px;
+  width: 80px;
 }
