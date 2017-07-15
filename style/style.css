@@ -3,6 +3,17 @@ h1{
   padding-bottom: 1cm;
 }
 
+body{
+  background: #EBDEF0;
+}
+
+button{
+  font-size: 12px;
+  text-align: center;
+  padding: 10px 24px;
+  background-color: #D6EAF8
+}
+
 .table{
   padding-top: 2cm;
 }
