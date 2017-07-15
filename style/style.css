@@ -1,3 +1,8 @@
+h1{
+  border-bottom: 1px solid black;
+  padding-bottom: 1cm;
+}
+
 .table{
   padding-top: 2cm;
 }
@@ -7,4 +12,6 @@
   font-size: 40pt;
   height: 40px;
   width: 80px;
+  text-align: center;
+  font-family: cursive;
 }
